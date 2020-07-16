@@ -1,6 +1,10 @@
 # Contributing
 
-Your contributions are always welcome!
+##
+Bitte sende eine email an: kollege@firma.com
+
+
+
 
 ## Guideline
 
